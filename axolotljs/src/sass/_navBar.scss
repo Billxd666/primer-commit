@@ -1,0 +1,47 @@
+.list_Nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    
+}
+
+.list_Nav li {
+    float:right;
+}
+
+.axo{
+    display: block;
+    color: #34373c;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-style:normal;
+    font-weight: 900;
+}
+
+.link_1{
+    display: block;
+    color: #34373c;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.link_2{
+    display: block;
+    color: #34373c;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.link_3{
+    display: block;
+    color: #34373c;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav_Container{
+    width: 50%;
+    margin: auto;
+}

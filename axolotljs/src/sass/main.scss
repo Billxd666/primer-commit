@@ -1,0 +1,21 @@
+@use 'navBar';
+@use 'cDashboard';
+@use '_mainDashboard';
+@use 'footer';
+@use 'pages';
+@use 'cardContact';
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+*{
+    margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+body{
+	font-family: 'Playfair Display', serif;
+
+}
+
